@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Brianna Smith!!!👋
+
+🎓 Senior at North Carolina A&T University majoring in Computer Science.</br>
+☁️ Spent the summer as a Platform Engineering Intern.</br>
+🚀 Currently diving into Cloud Engineering and excited to learn more!</br>
 
 <!--
 **bjsmith-bot/bjsmith-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
